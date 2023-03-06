@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-examp",
+  "version": "1.0.0",
+  "description": "totourial",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon node server.js",
+    "start": "node server.js"
+  },
+  "author": "reyhane",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "keywords": [],
+  "dependencies": {
+    "mongodb": "^5.1.0"
+  }
+}
